@@ -1,0 +1,32 @@
+{
+    "name": "whitespace",
+    "displayName": "whiteSpace",
+    "description": "WhiteSpace",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "WhiteSpace",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpace-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "git@github.com:yesomac/whitespace-theme.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
