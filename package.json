@@ -24,7 +24,7 @@
         "email": "yesdev19@gmail.com"
     },
     "repository": {
-        "url": "git@github.com:yesomac/whitespace-theme.git",
+        "url": "https://github.com/yesomac/whitespace-theme.git",
         "type": "git"
     },
     "publisher": "YesCode",
