@@ -9,12 +9,70 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Themes",
+        "WhiteSpace",
+        "WhiteSpace(Faint)",
+        "WhiteSpace(3)",
+        "WhiteSpace II",
+        "WhiteSpace II(Faint)",
+        "WhiteSpace III",
+        "WhiteSpace IV",
+        "WhiteSpace V",
+        "WhiteSpace VI",
+        "WhiteSpace VII"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "WhiteSpace",
                 "uiTheme": "vs",
                 "path": "./themes/WhiteSpace-color-theme.json"
+            },
+            {
+                "label": "WhiteSpace(Faint)",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpace(Faint)-color-theme.json"
+            },
+            {
+                "label": "WhiteSpace(3)",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpace(3)-color-theme.json"
+            },
+            {
+                "label": "WhiteSpaceII",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceII-color-theme.json"
+            },
+            {
+                "label": "WhiteSpace II(Faint)",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceII(Faint)-color-theme.json"
+            },
+            {
+                "label": "WhiteSpaceIII",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceIII-color-theme.json"
+            },
+            {
+                "label": "WhiteSpaceIV",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceIV-color-theme.json"
+            },
+            {
+                "label": "WhiteSpaceV",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceV-color-theme.json"
+            },
+            {
+                "label": "WhiteSpaceVI",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceVI-color-theme.json"
+            },
+            {
+                "label": "WhiteSpaceVII",
+                "uiTheme": "vs",
+                "path": "./themes/WhiteSpaceVII-color-theme.json"
             }
         ]
     },
